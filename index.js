@@ -38,4 +38,3 @@ withdrawBtn.addEventListener("click",function(){
     const totalBalance = currentBalanceNumber -withdrawNumber;// Calculate the total balance
     document.getElementById("current-balance").innerText = totalBalance;// Update the current balance value in the element with id "current-balance"
 });
-var h=
